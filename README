@@ -1,4 +1,5 @@
-        One-time-pad
+One-time-pad
+------------
 
   Simple implementation of a One-time-pad in C.
   Mostly written to produce something useful
