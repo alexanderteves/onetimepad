@@ -1,0 +1,12 @@
+        One-time-pad
+
+Simple implementation of a One-time-pad in C.
+Mostly written to produce something useful while
+learning the language.
+
+HOW TO USE
+
+  Provide to arguments on the commandline, the
+  input file and the filename for the key. The
+  encrypted / decrypted text from input file
+  will be printed to stdout.
