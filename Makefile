@@ -1,4 +1,7 @@
 all:
+	gcc -Wall -o otp otp.c
+	gcc -Wall -o unotp unotp.c
+debug:
 	gcc -Wall -g -o otp otp.c
 	gcc -Wall -g -o unotp unotp.c
 clean:
